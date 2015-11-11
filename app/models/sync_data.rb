@@ -277,7 +277,7 @@ run_info: "null",
 from_date: "2015-11-07 00:00:03",
 thru_date: "null",
 active: "1",
-sync_status_name: "Failed",
+sync_status_name: "Failure: Could not complete successfully",
 sync_run_duration_hms: "00:18:19",
 sync_table_runs: [
 {
@@ -323,7 +323,7 @@ sync_table_name: "student_attrs",
 start_time: "2015-11-07 00:10:16",
 end_time: "2015-11-07 00:10:17",
 sync_status_id: "3",
-sync_status_name: "Failed",
+sync_status_name: "Failure: Could not complete successfully",
 total_change_count: "null",
 total_completed_count: "null",
 sync_table_run_duration_hms: "00:00:01"
